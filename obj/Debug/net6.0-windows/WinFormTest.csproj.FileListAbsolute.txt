@@ -1,0 +1,15 @@
+F:\Codes\C#\WinFormTest\obj\Debug\net6.0-windows\WinFormTest.csproj.AssemblyReference.cache
+F:\Codes\C#\WinFormTest\obj\Debug\net6.0-windows\WinFormTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\Codes\C#\WinFormTest\obj\Debug\net6.0-windows\WinFormTest.AssemblyInfoInputs.cache
+F:\Codes\C#\WinFormTest\obj\Debug\net6.0-windows\WinFormTest.AssemblyInfo.cs
+F:\Codes\C#\WinFormTest\obj\Debug\net6.0-windows\WinFormTest.csproj.CoreCompileInputs.cache
+F:\Codes\C#\WinFormTest\bin\Debug\net6.0-windows\WinFormTest.exe
+F:\Codes\C#\WinFormTest\bin\Debug\net6.0-windows\WinFormTest.deps.json
+F:\Codes\C#\WinFormTest\bin\Debug\net6.0-windows\WinFormTest.runtimeconfig.json
+F:\Codes\C#\WinFormTest\bin\Debug\net6.0-windows\WinFormTest.dll
+F:\Codes\C#\WinFormTest\bin\Debug\net6.0-windows\WinFormTest.pdb
+F:\Codes\C#\WinFormTest\obj\Debug\net6.0-windows\WinFormTest.dll
+F:\Codes\C#\WinFormTest\obj\Debug\net6.0-windows\refint\WinFormTest.dll
+F:\Codes\C#\WinFormTest\obj\Debug\net6.0-windows\WinFormTest.pdb
+F:\Codes\C#\WinFormTest\obj\Debug\net6.0-windows\WinFormTest.genruntimeconfig.cache
+F:\Codes\C#\WinFormTest\obj\Debug\net6.0-windows\ref\WinFormTest.dll

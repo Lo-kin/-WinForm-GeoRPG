@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Codes\\C#\\WinFormTest\\WinFormTest.csproj": {}
+  },
+  "projects": {
+    "F:\\Codes\\C#\\WinFormTest\\WinFormTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Codes\\C#\\WinFormTest\\WinFormTest.csproj",
+        "projectName": "WinFormTest",
+        "projectPath": "F:\\Codes\\C#\\WinFormTest\\WinFormTest.csproj",
+        "packagesPath": "C:\\Users\\Lokiner\\.nuget\\packages\\",
+        "outputPath": "F:\\Codes\\C#\\WinFormTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lokiner\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
